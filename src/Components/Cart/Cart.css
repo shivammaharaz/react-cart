@@ -1,0 +1,15 @@
+.product-container{
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+div button{
+    float: right;
+    margin-bottom: 50px;
+    margin-right: 40px;
+    
+}
+div{
+    text-align: center;
+}
